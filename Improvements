@@ -1,0 +1,7 @@
+The way we name: A-B or A-B-C, A is the country, B is character name, C is the different looks of that character. Not all character have different looks.
+One character may have two country version, for example A1-B and A2-B. One character may have multiple looks, for example B-C1, B-C2.
+
+Improvements to be made:
+1. Add options to get different number of images: 1, 2, 4 (random), 4 (1 from each country), 6, 8 (random), and 8(2 from each country)
+2. Except for 1 image, make sure the character (B) is not repeated within one shuffle.
+3. Maybe challenging. Given multiple players are doing the shuffle togther, don't want different players get the same character.
