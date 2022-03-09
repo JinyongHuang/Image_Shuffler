@@ -4,4 +4,5 @@ One character may have two country version, for example A1-B and A2-B. One chara
 Improvements to be made:
 1. Add options to get different number of images: 1, 2, 4 (random), 4 (1 from each country), 6, 8 (random), and 8(2 from each country)
 2. Except for 1 image, make sure the character (B) is not repeated within one shuffle.
-3. Maybe challenging. Given multiple players are doing the shuffle togther, don't want different players get the same character.
+3. The size of images are about 6.2 cm in width and 8.7 cm in length. You may adjust the size of the frame that displays the images for higher resolution.
+4. Maybe challenging. Given multiple players are doing the shuffle togther, don't want different players get the same character.
